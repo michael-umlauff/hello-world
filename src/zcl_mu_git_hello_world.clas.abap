@@ -11,11 +11,12 @@ ENDCLASS.
 
 
 
-CLASS zcl_mu_git_hello_world IMPLEMENTATION.
+CLASS ZCL_MU_GIT_HELLO_WORLD IMPLEMENTATION.
+
+
   METHOD main.
 
 **** This is just a test class for the Code exchange via github
 
   ENDMETHOD.
-
 ENDCLASS.
