@@ -18,5 +18,7 @@ CLASS ZCL_MU_GIT_HELLO_WORLD IMPLEMENTATION.
 
 **** This is just a test class for the Code exchange via github
 
+    DATA(lv_zwei) = 1 + 1.
+
   ENDMETHOD.
 ENDCLASS.
